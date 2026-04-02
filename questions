@@ -1,0 +1,26 @@
+{
+  "categories": {
+    "geo": [
+      {
+        "id": 1,
+        "question": "Quelle est la capitale de l'Australie ?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": 2
+      },
+      {
+        "id": 2,
+        "question": "Quel fleuve traverse l'Égypte ?",
+        "options": ["L'Amazone", "Le Nil", "Le Congo", "Le Rhin"],
+        "answer": 1
+      }
+    ],
+    "art": [
+      {
+        "id": 3,
+        "question": "Qui a peint 'La Nuit étoilée' ?",
+        "options": ["Monet", "Van Gogh", "Degas", "Renoir"],
+        "answer": 1
+      }
+    ]
+  }
+}
